@@ -1,0 +1,11 @@
+age,no2_class,no2_home,age0,siblings_old,siblings_young,sev_home,green_home,noise_school,sev_school,precip,sex,grade,overweight,lbweight,breastfeed,msmoke,meducation,feducation
+9.059548,30.96813,54.313004,3.0,0.0,0.0,0.38709676,0.16743079229,38.0,0.41935483,0.0,Male,2nd,Normal weight,Normal birthweight,<6 months,No smoking,University,University
+7.5,30.96813,54.313004,3.0,0.0,0.0,0.38709676,0.16743079229,38.0,0.41935483,0.0,Male,2nd,Normal weight,Normal birthweight,<6 months,No smoking,University,University
+11.5,30.96813,54.313004,3.0,0.0,0.0,0.38709676,0.16743079229,38.0,0.41935483,0.0,Male,4th,Normal weight,Normal birthweight,<6 months,No smoking,University,University
+9.059548,5.0,5.0,3.0,0.0,0.0,0.38709676,0.16743079229,38.0,0.41935483,0.0,Male,2nd,Normal weight,Normal birthweight,<6 months,No smoking,University,University
+9.059548,100.0,180.0,3.0,0.0,0.0,0.38709676,0.16743079229,65.0,0.41935483,0.0,Male,2nd,Normal weight,Normal birthweight,<6 months,No smoking,University,University
+,,,,,,,,,,,Male,2nd,Normal weight,Normal birthweight,<6 months,No smoking,University,University
+9.059548,30.96813,54.313004,3.0,0.0,0.0,0.38709676,0.16743079229,38.0,0.41935483,0.0,,,,,,,,
+9.059548,30.96813,54.313004,3.0,0.0,0.0,0.38709676,0.16743079229,38.0,0.41935483,0.0,Unknown,5th,Normal weight,Normal birthweight,<6 months,No smoking,NewEducation,University
+16.0,30.96813,54.313004,3.0,0.0,0.0,0.38709676,0.16743079229,38.0,0.41935483,0.0,Male,4th,Normal weight,Normal birthweight,<6 months,No smoking,University,University
+9.0,30.96813,-10.0,15.0,0.0,0.0,0.38709676,0.16743079229,38.0,0.41935483,-1.0,Male,2nd,Normal weight,Normal birthweight,<6 months,No smoking,University,University
