@@ -1,0 +1,8 @@
+{
+  "selected_model": "Ridge: квадраты и сочетания",
+  "criterion": "mean inner CV RMSE",
+  "ridge_alpha": 10.0,
+  "poly_alpha": 10.0,
+  "log_alpha": 10.0,
+  "random_state_test": 2026
+}
